@@ -40,6 +40,7 @@ Response
 | Method | Path                              |
 |--------|-----------------------------------|
 | POST   | /wallets/:account_id/transactions |
+
 Request body
 ```json
 {
